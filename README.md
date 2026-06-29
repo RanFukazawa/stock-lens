@@ -15,4 +15,4 @@ Run in order:
 5. `notebooks/05_chatbot.ipynb` — SHAP + Gradio + Anthropic API
 
 ## Setup
-pip install pandas pandas-ta scikit-learn xgboost tensorflow shap gradio anthropic yfinance matplotlib seaborn
+`pip install pandas pandas-ta scikit-learn xgboost tensorflow shap gradio anthropic yfinance matplotlib seaborn`
